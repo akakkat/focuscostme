@@ -1878,16 +1878,20 @@ footer p {
   }
 
   .logoImage{
-	  height:60px;
-	  width:350px;
-	  margin-left:-100px;
+	  height: 200px;
+	  width: 350px;
+	  margin-left: -100px;
+	  margin-bottom: -70px;
+	  margin-top: -70px;
   }
 
   @media only screen and (max-width: 600px){
 	.logoImage{
-		height:40px;
-		width:200px;
-		margin-left:-40px;
+		height:140px;
+		width:180px;
+		margin-left:-35px;
+		margin-bottom: -40px;
+		margin-top: -40px;
 	}  
   }
 
